@@ -6,4 +6,4 @@ QRCode generator is a user-friendly website , used to create qr code for the des
 
 visit the website here - [https://anudeep-313.github.io/REVA-HACKATHON-2021/](https://anudeep-313.github.io/REVA-HACKATHON-2021/)
 
-![Test Image ](“qrcode.png”)
+![Test Image ](“https://github.com/Anudeep-313/REVA-HACKATHON-2021/blob/main/qrcode.png”)
